@@ -22,14 +22,14 @@ At the same time, it serves as a tribute to one of my favorite anime franchises.
 
 Planned support includes:
 
-μ's
-Aqours
-Nijigasaki High School Idol Club
-Liella!
-Hasunosora Girls' High School Idol Club
-Bluebird
-School Idol Musical
-Future Love Live! projects as they are announced
+* μ's
+* Aqours
+* Nijigasaki High School Idol Club
+* Liella!
+* Hasunosora Girls' High School Idol Club
+* Bluebird
+* School Idol Musical
+* Future Love Live! projects as they are announced
 
 ## Project Status
 
