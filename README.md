@@ -1,4 +1,4 @@
-#Love Live Wiki
+# Love Live Wiki
 
 A fan-made web development project dedicated to documenting every current Love Live! idol, group, and series in one place.
 
