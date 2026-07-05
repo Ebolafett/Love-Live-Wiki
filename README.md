@@ -1,10 +1,10 @@
-# Love Live Wiki
+## Love Live Wiki
 
 A fan-made web development project dedicated to documenting every current Love Live! idol, group, and series in one place.
 
 The goal of this project is to create a clean, modern, and easy-to-navigate wiki that allows fans to explore the growing Love Live! franchise without relying on scattered information across multiple websites.
 
-**Purpose**
+# Purpose
 
 This project was created as a personal web development portfolio project to practice:
 
@@ -18,7 +18,7 @@ Front-End Development
 
 At the same time, it serves as a tribute to one of my favorite anime franchises.
 
-**Current Coverage**
+# Current Coverage
 
 Planned support includes:
 
@@ -31,7 +31,7 @@ Bluebird
 School Idol Musical
 Future Love Live! projects as they are announced
 
-**Project Status**
+# Project Status
 
 🚧 Currently in development.
 
@@ -46,7 +46,7 @@ Timeline of the Love Live! universe
 Image galleries
 Mobile optimization improvements
 
-**Disclaimer**
+# Disclaimer
 
 This is an unofficial fan project created for educational and portfolio purposes.
 
